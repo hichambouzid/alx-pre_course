@@ -1,3 +1,2 @@
-My second readme for git 
-
-jh
+Hi 
+My readme updated now
